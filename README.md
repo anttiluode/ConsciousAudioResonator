@@ -1,4 +1,4 @@
-# AI Neuron Audio Processor
+# Neuromorphic audio processor
 
 ![AI Neuron Audio Processor](audioneuron.png)
 
