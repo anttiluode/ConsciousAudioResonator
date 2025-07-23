@@ -23,11 +23,14 @@ Outputs: Generates processed audio with configurable feedback mixing
 # Installation
 
 Clone or download this repository
+
 Install the required dependencies:
-bashpip install -r requirements.txt
+
+pip install -r requirements.txt
 
 # Run the application:
-bashpython aineuron.py
+
+python aineuron.py
 
 
 # Requirements
